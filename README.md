@@ -1,4 +1,4 @@
-<img width="100%" height="250vw" margin="0 auto" src="https://i.postimg.cc/s2XrtgtX/ezgif-com-crop.gif" />
+<img width="100%" height="250px" margin="0 auto" src="/ezgif-com-crop.gif" />
 
 <h1 align="center">Hi <img mix-blend-mode="multiply" width="35px" height="35px" src="https://c.tenor.com/CU-PX1m0egYAAAAC/tenor.gif" /> , I'm Sabbir Hosen</h1>
 
@@ -13,7 +13,7 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="Coding" width="400" src="/img2.gif">
 
 <br/>
 <br/>
