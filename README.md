@@ -1,23 +1,34 @@
 <img width="100%" height="250px" margin="0 auto" src="/ezgif-com-crop.gif" />
 
-<h1 align="center">Hi <img mix-blend-mode="multiply" width="35px" height="35px" src="https://c.tenor.com/CU-PX1m0egYAAAAC/tenor.gif" /> , I'm Sabbir Hosen</h1>
+<h1 align="center"> I'm Sabbir Hosen</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=5020&pause=991&color=FFFFFF&random=false&width=559&lines=A+Passionate+Web+Developer+From+Bangladesh)](https://git.io/typing-svg)
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <h4 style="display: inline-block;">This is my Old Github Account:</h4>
-  <a style="display: inline-block; margin-left: 20px;" href="https://github.com/sabbir-web-dev">
-    <img src="https://img.icons8.com/?size=512&id=52539&format=png" alt="github" style="background-color: blue; height: 40px;">
-  </a>
-</div>
+
+
+
+
+## About Me
+
+I’m Sabbir Hosen, a MERN stack developer from Bangladesh. I’m passionate about building scalable, efficient, and user-friendly web applications. With a focus on creating clean, maintainable code, I love taking on new challenges and exploring modern web technologies.
+
+### Highlights:
+- Currently working on dynamic web applications, including **tourism websites** and **marketplace platforms**.  
+- Skilled in React, Tailwind CSS, Node.js, Express, and MongoDB.  
+- Continuously learning and experimenting with new tools and technologies to improve my craft.  
+- Dedicated to creating intuitive user experiences and scalable backend systems.
+
+Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/sabbir-hosen-dev/) or check out my [portfolio](https://sabbirhosen.netlify.app/) for more details about my work.
+
+
 
 <br/>
+<br/>
+<br/>
+<br/>
+
 
 <img align="right" alt="Coding" width="400" src="/img2.gif">
-
-<br/>
-<br/>
-<br/>
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -31,12 +42,7 @@
 <br/>
 <br/>
 
-<h2 align="left">Git Hub Status:</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabbir-hosen-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbir-hosen-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+###
 
 <h4>💻 Tech Stack:</h4>
 
@@ -119,12 +125,35 @@
   </tr>
 </table>
 
+###
+
+<br/>
+<br/>
+<br/>
+
+
+<h2 align="left">Git Hub Status:</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabbir-hosen-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbir-hosen-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<br/>
+<br/>
+
+
 <h3 align="left">Connect With Me:</h3>
-<p align="left">
-  <a style="display: inline-block; margin-left: 20px;" href="https://www.linkedin.com/in/sabbir-hosen-dev/">
-    <img src='https://img.icons8.com/?size=512&id=44019&format=png' alt="LinkDIn" style="background-color: blue; height: 40px;">
+<div align="left">
+  <a href="https://www.linkedin.com/in/sabbir-hosen-dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a style="display: inline-block; margin-left: 20px;" href="https://www.facebook.com/sabbir.hosen.dev/">
-    <img src="https://img.icons8.com/?size=512&id=118501&format=png" alt="github" style="background-color: blue; height: 40px;">
+  <a href="https://www.facebook.com/sabbir.hosen.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-</p>
+  <a href="https://wa.me/+8801313530719" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
