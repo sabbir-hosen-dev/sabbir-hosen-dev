@@ -4,39 +4,32 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=5020&pause=991&color=FFFFFF&random=false&width=559&lines=A+Passionate+Web+Developer+From+Bangladesh)](https://git.io/typing-svg)
 
-
-
-
-
 ## About Me
 
-I’m Sabbir Hosen, a MERN stack developer from Bangladesh. I’m passionate about building scalable, efficient, and user-friendly web applications. With a focus on creating clean, maintainable code, I love taking on new challenges and exploring modern web technologies.
+I’m Sabbir Hosen, a **front-end developer** from Bangladesh. I’m passionate about building scalable, efficient, and user-friendly web applications. With a focus on creating clean, maintainable code, I love taking on new challenges and exploring modern web technologies.
 
 ### Highlights:
 - Currently working on dynamic web applications, including **tourism websites** and **marketplace platforms**.  
-- Skilled in React, Tailwind CSS, Node.js, Express, and MongoDB.  
+- Skilled in React, Tailwind CSS, and JavaScript.  
 - Continuously learning and experimenting with new tools and technologies to improve my craft.  
-- Dedicated to creating intuitive user experiences and scalable backend systems.
+- Dedicated to creating intuitive user experiences and visually appealing interfaces.
 
 Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/sabbir-hosen-dev/) or check out my [portfolio](https://sabbirhosen.netlify.app/) for more details about my work.
 
-
-
 <br/>
 <br/>
 <br/>
 <br/>
-
 
 <img align="right" alt="Coding" width="400" src="/img2.gif">
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 🔭 I’m currently working on **Web App**
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **front-end development**
 - 📫 How to reach me **web.sabbir.dev.com**
 - 😄 Pronouns: ...
- - ⚡ Fun fact: ...
+- ⚡ Fun fact: ...
 
 <br/>
 <br/>
@@ -131,7 +124,6 @@ Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/sabbir-h
 <br/>
 <br/>
 
-
 <h2 align="left">Git Hub Status:</h2>
 
 <div align="center">
@@ -141,7 +133,6 @@ Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/sabbir-h
 
 <br/>
 <br/>
-
 
 <h3 align="left">Connect With Me:</h3>
 <div align="left">
@@ -155,5 +146,3 @@ Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/sabbir-h
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
