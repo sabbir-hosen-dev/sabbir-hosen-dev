@@ -1,4 +1,4 @@
-<img width="100%" height="250px" margin="0 auto" src="/ezgif-com-crop.gif" />
+<img width="100%" height="320px"  margin="0 auto" src="/Banner.gif" />
 
 <h1 align="center"> I'm Sabbir Hosen</h1>
 
