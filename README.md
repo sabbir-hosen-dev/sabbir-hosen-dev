@@ -29,7 +29,7 @@ Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/sabbir-h
 - 🌱 I’m currently learning ...
 - 🔭 I’m currently working on **Web App**
 - 💬 Ask me about **front-end development**
-- 📫 How to reach me **web.sabbir.dev.com**
+- 📫 How to reach me **tssabbirhosen@gmail.com**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
@@ -154,8 +154,8 @@ Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/sabbir-h
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Thank%20you%20for%20visiting%20my%20profile👋&reversal=false&section=footer&fontSize=16&animation=twinkling&fontAlignY=80">
 <!-- GitHub Activity Graph -->
 <!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=sabbir-hosen-dev&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true) -->
-<br/>
-<br/>
+<!-- <br/>
+<br/> -->
 
 <!-- <h3 align="left">Connect With Me:</h3>
 <div align="left">
