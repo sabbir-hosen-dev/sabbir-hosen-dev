@@ -16,6 +16,8 @@ I’m Sabbir Hosen, a **front-end developer** from Bangladesh. I’m passionate 
 
 Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/sabbir-hosen-dev/) or check out my [portfolio](https://sabbirhosen.netlify.app/) for more details about my work.
 
+[![wakatime](https://wakatime.com/badge/user/b91aacce-e1eb-46ee-8af4-b4fe37728d49.svg)](https://wakatime.com/@sabbirdev)
+
 <br/>
 <br/>
 <br/>
