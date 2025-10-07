@@ -143,7 +143,7 @@ Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/sabbir-h
   <img alt="github-snake" src="github-snake.svg" />
 </picture> -->
 
-### <h2><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="50"> Github Stats</h2>
+### <h2><img src="https://github.com/sabbir-hosen-dev/sabbir-hosen-dev/blob/main/git-github.gif?raw=true" width="54">hub Stats</h2>
 <p align="center">
   <img alt="imran :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=sabbir-hosen-dev&theme=blue-green&show_icons=true&count_private=true&hide_border=true" />
   <img alt="imran :: Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir-hosen-dev&langs_count=10&theme=blue-green&layout=compact&hide=html" />
