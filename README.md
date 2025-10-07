@@ -126,18 +126,38 @@ Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/sabbir-h
 <br/>
 <br/>
 
-<h2 align="left">Git Hub Status:</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabbir-hosen-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbir-hosen-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabbir-hosen-dev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+### 📈 Monthly Contribution Stats
 
+<a href="https://github.com/ImRanKhan81m">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ImRanKhan81m&theme=react-dark&radius=8&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ImRanKhan81m&radius=8&area=true" />
+  <img alt="activity-graph" src="activity-graph.svg" />
+</picture>
+</a>
+
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kavicastelo/kavicastelo/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kavicastelo/kavicastelo/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture> -->
+
+### <h2><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="50"> Github Stats</h2>
+<p align="center">
+  <img alt="imran :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=sabbir-hosen-dev&theme=blue-green&show_icons=true&count_private=true&hide_border=true" />
+  <img alt="imran :: Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir-hosen-dev&langs_count=10&theme=blue-green&layout=compact&hide=html" />
+  <img alt="imran :: Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=sabbir-hosen-dev&theme=blue-green&hide_border=true" />
+</p> 
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Thank%20you%20for%20visiting%20my%20profile👋&reversal=false&section=footer&fontSize=16&animation=twinkling&fontAlignY=80">
+<!-- GitHub Activity Graph -->
+<!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=sabbir-hosen-dev&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true) -->
 <br/>
 <br/>
 
-<h3 align="left">Connect With Me:</h3>
+<!-- <h3 align="left">Connect With Me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/sabbir-hosen-dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -148,4 +168,4 @@ Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/sabbir-h
   <a href="https://wa.me/+8801313530719" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-</div>
+</div> -->
