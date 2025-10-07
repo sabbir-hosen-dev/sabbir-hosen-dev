@@ -18,6 +18,8 @@ Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/sabbir-h
 
 [![wakatime](https://wakatime.com/badge/user/b91aacce-e1eb-46ee-8af4-b4fe37728d49.svg)](https://wakatime.com/@sabbirdev)
 
+<img src="https://komarev.com/ghpvc/?username=sabbir-hosen-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir-hosen-dev" />
+
 <br/>
 <br/>
 <br/>
@@ -149,6 +151,15 @@ Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/sabbir-h
   <img alt="imran :: Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir-hosen-dev&langs_count=10&theme=blue-green&layout=compact&hide=html" />
   <img alt="imran :: Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=sabbir-hosen-dev&theme=blue-green&hide_border=true" />
 </p> 
+
+
+### 🐍 GitHub Contribution Snake  
+
+<div align="center">
+  <img src="https://github.com/AyshaUrmi0/AyshaUrmi0/blob/output/snake.svg" alt="Snake animation" />
+</div>
+
+
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Thank%20you%20for%20visiting%20my%20profile👋&reversal=false&section=footer&fontSize=16&animation=twinkling&fontAlignY=80">
